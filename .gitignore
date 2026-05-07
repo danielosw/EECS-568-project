@@ -207,6 +207,4 @@ marimo/_lsp/
 __marimo__/
 output/
 physionet.org/
-pyproject.toml
-.python-version
 data/

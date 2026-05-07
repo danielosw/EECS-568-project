@@ -1,0 +1,10 @@
+[project]
+name = "eecs-568-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pyhealth>=2.0.1",
+]
